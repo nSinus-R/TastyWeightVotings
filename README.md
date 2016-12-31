@@ -1,5 +1,5 @@
 # TastyWeightVotings
-Some python scripts to analyze ctftime votings.
+Some python scripts to analyze ctftime votings, brought to you by Tasteless.
 
 This repository is currently WIP, and an analysis with text and explanations will be posted on tasteless.eu somewhen in the future.
 
